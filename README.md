@@ -1,2 +1,2 @@
 # enufuture.github.io
-web page for enumivo bp node enufuture
+Web Page For Enumivo Block Procuder Candidate ENU Future.
